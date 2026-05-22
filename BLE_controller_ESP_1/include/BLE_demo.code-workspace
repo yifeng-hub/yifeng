@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "BLE_Controller",
+			"path": "../../BLE_Controller/BLE_Controller"
+		},
+		{
+			"name": "BLE_client_demo_1",
+			"path": "../../../../../../onedrive/OneDrive - zju.edu.cn/文档/PlatformIO/Projects/BLE_client_demo_1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tft_espi_esp32_s3.c": "cpp"
+		}
+	}
+}

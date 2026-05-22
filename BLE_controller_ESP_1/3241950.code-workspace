@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../onedrive/OneDrive - zju.edu.cn/桌面/squareline/3241950"
+		},
+		{
+			"name": "BLE_copy",
+			"path": "."
+		},
+		{
+			"name": "BLE_demo",
+			"path": "../BLE_demo"
+		},
+		{
+			"name": "BLE_Server",
+			"path": "../BLE_Server"
+		}
+	],
+	"settings": {}
+}
